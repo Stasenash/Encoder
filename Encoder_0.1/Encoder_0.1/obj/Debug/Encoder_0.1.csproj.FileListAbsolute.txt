@@ -1,0 +1,10 @@
+C:\Users\stasi\source\repos\Encoder_0.1\Encoder_0.1\bin\Debug\Encoder_0.1.exe.config
+C:\Users\stasi\source\repos\Encoder_0.1\Encoder_0.1\bin\Debug\Encoder_0.1.exe
+C:\Users\stasi\source\repos\Encoder_0.1\Encoder_0.1\bin\Debug\Encoder_0.1.pdb
+C:\Users\stasi\source\repos\Encoder_0.1\Encoder_0.1\obj\Debug\Encoder_0.1.csprojAssemblyReference.cache
+C:\Users\stasi\source\repos\Encoder_0.1\Encoder_0.1\obj\Debug\Encoder_0._1.Properties.Resources.resources
+C:\Users\stasi\source\repos\Encoder_0.1\Encoder_0.1\obj\Debug\Encoder_0.1.csproj.GenerateResource.cache
+C:\Users\stasi\source\repos\Encoder_0.1\Encoder_0.1\obj\Debug\Encoder_0.1.csproj.CoreCompileInputs.cache
+C:\Users\stasi\source\repos\Encoder_0.1\Encoder_0.1\obj\Debug\Encoder_0.1.exe
+C:\Users\stasi\source\repos\Encoder_0.1\Encoder_0.1\obj\Debug\Encoder_0.1.pdb
+C:\Users\stasi\source\repos\Encoder_0.1\Encoder_0.1\obj\Debug\Encoder_0._1.MainForm.resources
